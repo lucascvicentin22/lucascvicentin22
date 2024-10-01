@@ -6,7 +6,7 @@
 
 💼 **Habilidades:**
 - Desenvolvimento Front End: HTML, CSS, JavaScript
-- Desenvolvimento Back End: Python
+- Desenvolvimento: Python, C#
 - Controle de Versão: Git, GitHub
 
 📚 **Aprendendo:**
